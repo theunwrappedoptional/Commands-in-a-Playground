@@ -1,2 +1,2 @@
-# Commands_in_a_Playground
+# Commands-in-a-Playground
 Terminal Commands in Xcode Playground
